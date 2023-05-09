@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MyModalComponent } from './my-modal/my-modal.component';
 
 @Component({
   selector: 'app-root',
